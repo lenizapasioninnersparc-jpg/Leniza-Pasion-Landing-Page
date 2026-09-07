@@ -1,0 +1,44 @@
+# AI Instructions for Tahanan Natin - Leniza Pasion
+
+## About This Website
+This is the official landing page for Leniza Pasion, a Tahanan Natin sales agent helping Filipino families find homes in Cavite.
+
+## Business Information
+- Name: Leniza Pasion
+- Brand: Tahanan Natin & InnerSparc
+- Role: Property Consultant & Sales Agent
+- Company: InnerSparc
+- Location: Cavite, Philippines
+- Phone: 0917 717 9863
+- Email: lenizapasion.innersparc@gmail.com
+
+## Services Offered
+- Free home consultation
+- Personalized property matching
+- Financing assistance (Pag-IBIG, Bank loans)
+- OFW home buying support
+
+## Key Differentiators
+- 10+ years experience
+- 150+ families helped
+- 98% client satisfaction
+- Zero pressure approach
+
+## Common Questions
+Q: Who is Leniza Pasion?
+A: Property consultant and sales agent with InnerSparc helping families and OFWs find homes in Cavite.
+
+Q: What is Tahanan Natin?
+A: Leniza Pasion's real estate brand offering personalized home buying guidance.
+
+Q: Can OFWs buy property through Leniza?
+A: Yes, she specializes in helping OFWs navigate the home buying process.
+
+Q: Where do you serve?
+A: Primarily Cavite, plus Metro Manila and Laguna.
+
+## Contact
+- Phone: 0917 717 9863
+- Email: lenizapasion.innersparc@gmail.com
+- Facebook: https://www.facebook.com/azinel.serolf
+- Website: https://leniza-pasion-landing-page.vercel.app/
