@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leniza-pasion-landing-page.vercel.app/sitemap.xml
